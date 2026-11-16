@@ -1,11 +1,5 @@
-<h1 align="center">Md. Olee Ahmmed (Ashik)</h1>
-
 <p align="center">
-  <strong>Backend Engineer · ERP Implementation Specialist · AI Automation</strong>
-</p>
-
-<p align="center">
-  Bangladesh · 10+ years building software businesses run on
+  <img src="assets/banner.svg" alt="Md. Olee Ahmmed — Software Engineer, Backend, AI Automation and ERP" width="100%">
 </p>
 
 <p align="center">
@@ -17,42 +11,51 @@
 
 ---
 
-I am a backend engineer with 10+ years of experience turning business processes into software that holds up in production. I have delivered 400+ projects across ERP, inventory, custom software and web, most of them as the lead — from SAP Business One rollouts on factory floors to a campaign platform sending 20M+ SMS a month for a US client. Today I build AI automation and multi-agent systems at ibitLtd.
+I build backend systems and AI automation for software that has to work every day. Ten years into this field, I have delivered 400+ projects across ERP, inventory, custom platforms and web — most of them as the lead, from data model to deployment and production support.
 
-| Experience | Projects delivered | SAP B1 implementations | Peak message volume |
+I have been a **Software Engineer at Createch.ca and [ibitLtd](https://ibitltd.com) since 2022**. My work there spans backend services, DevOps and platforms for US clients — including a campaign system sending **20M+ SMS every month**, banking automation, loan verification and IoT integrations.
+
+| Experience | Projects delivered | Peak message volume | Public repositories |
 | :---: | :---: | :---: | :---: |
-| **10+ years** | **400+** | **3** | **20M+ / month** |
+| **10+ years** | **400+** | **20M+ / month** | **140+** |
 
-## Core strengths
+## Currently
 
-**ERP that runs on the floor**
-Three end-to-end SAP Business One implementations across inventory, purchase, sales, production, HRM and finance — learned inside warehouses and factories, not just from documentation.
+> **Software Engineer** — Createch.ca · [ibitLtd](https://ibitltd.com)
+>
+> Backend engineering, deployment and AI automation since 2022 — shipping multi-agent systems with CrewAI, LangGraph, LangChain and Hermes while keeping production platforms stable.
 
-**Backend engineering**
-Python/Django, Java and PHP. Data models, APIs and business logic built on MySQL, PostgreSQL and MongoDB, designed to stay correct under real load.
+## Experience
 
-**Full ownership of delivery**
-React.js and Next.js on the frontend, Git and Linux in between, deployment and production support at the end. I lead projects from requirement to the support call.
+A decade across two kinds of work: building software products, and implementing the ERP systems that run the business behind them.
 
-**AI automation**
-Multi-agent workflows with CrewAI, LangChain, LangGraph and Hermes — moving from software that records work to software that does work.
+| Period | Company | Role | Focus |
+| --- | --- | --- | --- |
+| **2022 – Present** | **Createch.ca** | Software Engineer | Backend, DevOps and platforms for US clients |
+| **2022 – Present** | **ibitLtd** | Software Engineer | AI automation, backend and production systems |
+| 2021 | **Faiza Button & Zipper** | SAP Business One Implementer | Sales and Finance |
+| 2020 | **Cherry Button Ltd** | SAP Business One Implementer | Production Management and HRM |
+| 2017 – 2019 | **LSI Industries** | SAP Business One Implementer | Inventory, Purchase and Warehouse |
+| 2015 – 2017 | Independent | WordPress & PHP Developer | Websites, themes and databases |
 
 ## Selected work
 
-- **Campaign management platform** — 20M+ SMS per month for a large US client, with lead and campaign management, running without operational failure.
-- **Bank automation and loan verification** — automated verification flows for banking operations.
+- **Campaign management platform** — 20M+ SMS per month for a large US client, with lead and campaign management, running without operational failure. *Project lead.*
+- **Bank automation and loan verification** — automated verification flows for banking operations. *Project lead.*
 - **IoT integrations** — device data feeding business systems in real time.
 - **400+ delivered projects** — ERP, inventory, custom software and websites.
 
-## SAP Business One implementations
+## Freelance
 
-| Company | Period | Scope |
-| --- | --- | --- |
-| LSI Industries | 2017–2019 | Inventory, Purchase, Warehouse |
-| Cherry Button Ltd | 2020 | Production Management, HRM |
-| Faiza Button & Zipper | 2021 | Sales, Finance |
+Alongside full-time engineering, I have delivered client projects through **Fiverr** and local marketplaces — scoping, building and shipping directly with the client, from small fixes to complete systems. It is where I learned to price work honestly, communicate clearly and own delivery end to end.
 
 ## Tech stack
+
+<p align="center"><strong>Backend</strong></p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,php,java&perline=4" alt="Python, Django, PHP, Java">
+</p>
 
 <p align="center"><strong>AI and agents</strong></p>
 
@@ -63,22 +66,16 @@ Multi-agent workflows with CrewAI, LangChain, LangGraph and Hermes — moving fr
   <img src="https://img.shields.io/badge/Hermes_Agent-6D28D9?style=for-the-badge&logoColor=white" alt="Hermes Agent">
 </p>
 
-<p align="center"><strong>Backend</strong></p>
+<p align="center"><strong>Data</strong></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,php,java&perline=4" alt="Python, Django, PHP, Java">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="MySQL, PostgreSQL, MongoDB">
 </p>
 
 <p align="center"><strong>Frontend</strong></p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=6" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS">
-</p>
-
-<p align="center"><strong>Data</strong></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="MySQL, PostgreSQL, MongoDB">
 </p>
 
 <p align="center"><strong>ERP</strong></p>
@@ -120,7 +117,7 @@ Multi-agent workflows with CrewAI, LangChain, LangGraph and Hermes — moving fr
 - LinkedIn: [olee-ahmmed-444aa5209](https://bd.linkedin.com/in/olee-ahmmed-444aa5209)
 - GitHub: [@oleeahmmed](https://github.com/oleeahmmed)
 
-Open to conversations about ERP rollouts, backend architecture and AI automation.
+If you need backend depth, an ERP rollout that survives the floor, or an AI agent that does real work — let's talk.
 
 ---
 
