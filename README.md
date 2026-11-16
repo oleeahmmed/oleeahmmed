@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer · Backend & DevOps Specialist · AI Automation Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9BF0&center=true&vCenter=true&width=650&lines=Python+%7C+Django+%7C+DRF+%7C+Java+%7C+PHP;SAP+Business+One+Specialist;Building+AI+Agents+%26+Automation;400%2B+Projects+Delivered;20M%2B+SMS%2Fmonth+%E2%80%94+Zero+Downtime" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9BF0&center=true&vCenter=true&width=700&lines=Python+First+%7C+Django+%7C+Odoo+%7C+React%2FNext.js;SAP+B1+%26+ERP+Systems+Specialist;Agentic+AI+Development+%26+Automation;Custom+ERP%2C+POS%2C+Accounting%2C+School%2C+Hospital%2C+E-commerce;400%2B+Projects+Delivered;20M%2B+SMS%2Fmonth+%E2%80%94+Zero+Downtime" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,7 +22,8 @@
 
 - 🏢 Software Engineer @ **Kreatech.ca** & **ibitLtd** — partner companies **igenHR** & **SailPilot**
 - 💼 Freelance DevOps on **Fiverr**, plus long-running local marketplace clients
-- 🤖 Building **AI agents & multi-agent automation** — CrewAI, LangChain, LangGraph, Hermes Agent
+- 🤖 Focused on **agentic AI development & automation** — building production-grade AI agents with CrewAI, LangChain, LangGraph, Hermes Agent
+- 🏗️ Designing & delivering **custom industry applications**: ERP, Accounting, POS, Inventory, School Management, Hospital Management, E-commerce
 - 📡 Leading a campaign management platform sending **20M+ SMS/month** with zero operational failure
 - 🏦 Delivering bank automation, loan verification, and IoT monitoring systems
 
@@ -48,16 +49,21 @@
 
 ### 🛠️ Tech Stack
 
+**🐍 Primary**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST_Framework-A30000?style=flat-square&logo=django&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=fastapi&logoColor=white)
 
-**Frontend & Mobile**
+**Frontend, Mobile & Desktop**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -65,6 +71,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Database**
 
@@ -75,21 +82,24 @@
 **ERP**
 
 ![SAP](https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white)
 
-**AI & Automation**
+**Agentic AI & Automation**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6F00?style=flat-square)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-4B0082?style=flat-square)
 
-**DevOps & Platform**
+**DevOps, Server & Platform**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
@@ -104,13 +114,30 @@
 
 ---
 
+### 🏭 Industry Solutions I Build
+
+| Domain | What I Deliver |
+|---|---|
+| 🏢 **Custom ERP** | End-to-end ERP systems tailored to business workflows (SAP B1 & Odoo based, or built from scratch in Django) |
+| 💰 **Accounting** | Accounting & finance modules — ledgers, invoicing, reconciliation |
+| 🛒 **POS** | Point-of-sale systems with inventory & billing integration |
+| 📦 **Inventory** | Multi-warehouse inventory & stock management systems |
+| 🏫 **School Management** | Student, attendance, exam & fee management systems |
+| 🏥 **Hospital Management** | Patient, appointment & records management systems |
+| 🛍️ **E-commerce** | Full-stack e-commerce platforms — storefront, cart, payments |
+| ⚙️ **Custom Applications** | Bespoke software for industry-specific business needs |
+
+---
+
 ### 🏆 Highlights & Achievements
 
 - 🔹 **400+ projects** delivered — ERP, inventory systems, custom software, websites — mostly as technical lead
+- 🤖 Building **agentic AI systems** that automate real business workflows — from lead management to client support
 - 🔹 **20M+ SMS/month** campaign management platform with zero operational failure
 - 🔹 Bank automation & loan verification systems for financial clients
 - 🔹 IoT device integration — door & fire alarm monitoring, industrial networks
-- 🔹 Currently building resellable, multi-agent AI automation products (CrewAI, LangGraph, LangChain, Hermes Agent)
+- 🔹 Delivering resellable, industry-ready products: ERP, Accounting, POS, Inventory, School, Hospital, E-commerce
+- 🔹 Multi-agent AI automation products (CrewAI, LangGraph, LangChain, Hermes Agent)
 
 ---
 
