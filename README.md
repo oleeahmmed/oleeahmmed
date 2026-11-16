@@ -20,7 +20,7 @@
 
 ### 🚀 Currently
 
-- 🏢 Software Engineer @ **Kreatech.ca** & **ibitLtd** — partner companies **igenHR** & **SailPilot**
+- 🏢 Software Engineer @ **ibitLtd** — partner companies **igenHR** & **SailPilot**
 - 💼 Freelance DevOps on **Fiverr**, plus long-running local marketplace clients
 - 🤖 Focused on **agentic AI development & automation** — building production-grade AI agents with CrewAI, LangChain, LangGraph, Hermes Agent
 - 🏗️ Designing & delivering **custom industry applications**: ERP, Accounting, POS, Inventory, School Management, Hospital Management, E-commerce
@@ -145,10 +145,10 @@
 
 | Organization | Role | Notes |
 |---|---|---|
-| **Kreatech.ca** | Software Engineer | Current |
 | **ibitLtd** | Software Engineer | Current |
 | **igenHR** | Engineering | Partner company of ibitLtd |
 | **SailPilot** | Engineering | Partner company of ibitLtd |
+| **Kreatech.ca** | Software Engineer | Until 2025 |
 | **Fiverr** | DevOps Freelancer | Ongoing |
 
 ---
