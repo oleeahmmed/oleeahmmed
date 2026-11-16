@@ -1,325 +1,127 @@
+<h1 align="center">Md. Olee Ahmmed (Ashik)</h1>
 
+<p align="center">
+  <strong>Backend Engineer · ERP Implementation Specialist · AI Automation</strong>
+</p>
 
-## 💀 TECH ARSENAL
+<p align="center">
+  Bangladesh · 10+ years building software businesses run on
+</p>
 
-<div align="center">
-
-### ⚔️ WEAPONS OF CHOICE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🐍 Backend & Core
-![Python](https://img.shields.io/badge/Python-Expert-14354C?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)
-![Django](https://img.shields.io/badge/Django-Master-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
-![DRF](https://img.shields.io/badge/Django_REST-Expert-A30000?style=for-the-badge&logo=django&logoColor=white&labelColor=000000)
-![FastAPI](https://img.shields.io/badge/FastAPI-Advanced-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-Advanced-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
-![PHP](https://img.shields.io/badge/PHP-Proficient-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-
-#### 🤖 AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-Expert-00A67E?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=000000)
-![RAG](https://img.shields.io/badge/RAG-Advanced-FF6F00?style=for-the-badge&logo=robot&logoColor=white&labelColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-Expert-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000)
-![Pandas](https://img.shields.io/badge/Pandas-Expert-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000)
-
-#### 🗄️ Database Mastery
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=000000)
-![MySQL](https://img.shields.io/badge/MySQL-Expert-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-Advanced-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
-![Redis](https://img.shields.io/badge/Redis-Expert-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)
-![SQLite](https://img.shields.io/badge/SQLite-Advanced-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=000000)
-
-</td>
-<td width="50%" valign="top">
-
-#### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Advanced-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)
-![AWS](https://img.shields.io/badge/AWS-Advanced-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=000000)
-![Nginx](https://img.shields.io/badge/Nginx-Advanced-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-Expert-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
-
-#### 🎨 Frontend (When Needed)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)
-![React](https://img.shields.io/badge/React-Intermediate-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000)
-![HTML5](https://img.shields.io/badge/HTML5-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-Advanced-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Advanced-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=000000)
-![Tailwind](https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=000000)
-
-#### 🏢 Enterprise Systems
-![SAP](https://img.shields.io/badge/SAP_Business_One-5_Years-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=000000)
-![ERP](https://img.shields.io/badge/ERP_Systems-Expert-FF6B35?style=for-the-badge&logo=enterprise&logoColor=white&labelColor=000000)
-![Microservices](https://img.shields.io/badge/Microservices-Expert-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=000000)
-
-</td>
-</tr>
-</table>
-
-</div>
+<p align="center">
+  <a href="mailto:rebelsoft111122@gmail.com"><img src="https://img.shields.io/badge/Email-rebelsoft111122@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/8801953664967"><img src="https://img.shields.io/badge/WhatsApp-%2B880_1953_664967-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="https://bd.linkedin.com/in/olee-ahmmed-444aa5209"><img src="https://img.shields.io/badge/LinkedIn-Olee_Ahmmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/oleeahmmed"><img src="https://img.shields.io/badge/GitHub-oleeahmmed-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 📊 COMBAT STATISTICS
+I am a backend engineer with 10+ years of experience turning business processes into software that holds up in production. I have delivered 400+ projects across ERP, inventory, custom software and web, most of them as the lead — from SAP Business One rollouts on factory floors to a campaign platform sending 20M+ SMS a month for a US client. Today I build AI automation and multi-agent systems at ibitLtd.
 
-<div align="center">
+| Experience | Projects delivered | SAP B1 implementations | Peak message volume |
+| :---: | :---: | :---: | :---: |
+| **10+ years** | **400+** | **3** | **20M+ / month** |
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+## Core strengths
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleeahmmed&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true)
+**ERP that runs on the floor**
+Three end-to-end SAP Business One implementations across inventory, purchase, sales, production, HRM and finance — learned inside warehouses and factories, not just from documentation.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oleeahmmed&theme=radical&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7)
+**Backend engineering**
+Python/Django, Java and PHP. Data models, APIs and business logic built on MySQL, PostgreSQL and MongoDB, designed to stay correct under real load.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oleeahmmed&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF&langs_count=8)
+**Full ownership of delivery**
+React.js and Next.js on the frontend, Git and Linux in between, deployment and production support at the end. I lead projects from requirement to the support call.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oleeahmmed&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" width="100%">
+**AI automation**
+Multi-agent workflows with CrewAI, LangChain, LangGraph and Hermes — moving from software that records work to software that does work.
 
-</div>
+## Selected work
 
----
+- **Campaign management platform** — 20M+ SMS per month for a large US client, with lead and campaign management, running without operational failure.
+- **Bank automation and loan verification** — automated verification flows for banking operations.
+- **IoT integrations** — device data feeding business systems in real time.
+- **400+ delivered projects** — ERP, inventory, custom software and websites.
 
-## 🏆 ACHIEVEMENT UNLOCKED
+## SAP Business One implementations
 
-<div align="center">
+| Company | Period | Scope |
+| --- | --- | --- |
+| LSI Industries | 2017–2019 | Inventory, Purchase, Warehouse |
+| Cherry Button Ltd | 2020 | Production Management, HRM |
+| Faiza Button & Zipper | 2021 | Sales, Finance |
 
-```yaml
-═══════════════════════════════════════════════════════════════════
-                    PROFESSIONAL ACHIEVEMENTS
-═══════════════════════════════════════════════════════════════════
+## Tech stack
 
-🎯 SYSTEM ARCHITECT LEVEL 50+:
-   ├─ Architected 50+ Enterprise-Grade Systems
-   ├─ ERP | POS | HRM | Inventory | Finance Management
-   └─ Serving 1000+ employees across multiple organizations
+<p align="center"><strong>AI and agents</strong></p>
 
-⚡ PERFORMANCE MASTER:
-   ├─ 99.9% System Uptime Achievement
-   ├─ 60% Response Time Optimization
-   ├─ 10,000+ Concurrent Users Handling
-   └─ Zero-Downtime Deployments
+<p align="center">
+  <img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white" alt="CrewAI">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/LangGraph-2F9E44?style=for-the-badge&logoColor=white" alt="LangGraph">
+  <img src="https://img.shields.io/badge/Hermes_Agent-6D28D9?style=for-the-badge&logoColor=white" alt="Hermes Agent">
+</p>
 
-🤖 AI INTEGRATION SPECIALIST:
-   ├─ Production-Ready Langchain Implementations
-   ├─ Advanced RAG System Development
-   ├─ ML Model Training & Deployment
-   └─ AI-Powered Business Analytics
+<p align="center"><strong>Backend</strong></p>
 
-🚀 DELIVERY EXCELLENCE:
-   ├─ 30+ Mission-Critical Backend Solutions
-   ├─ 30% Faster Than Industry Standards
-   ├─ 100% On-Time Project Delivery
-   └─ Zero Critical Post-Launch Issues
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,django,php,java&perline=4" alt="Python, Django, PHP, Java">
+</p>
 
-💼 ENTERPRISE EXPERTISE:
-   ├─ 5 Years SAP Business One Operations
-   ├─ Multi-tenant SaaS Architecture
-   ├─ Payment Gateway Integrations
-   └─ Complex Business Logic Implementation
+<p align="center"><strong>Frontend</strong></p>
 
-🔐 SECURITY & COMPLIANCE:
-   ├─ JWT Authentication Systems
-   ├─ Rate Limiting & API Security
-   ├─ Data Encryption Standards
-   └─ GDPR Compliance Implementation
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&perline=6" alt="React, Next.js, TypeScript, JavaScript, HTML, CSS">
+</p>
 
-═══════════════════════════════════════════════════════════════════
-```
+<p align="center"><strong>Data</strong></p>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" alt="MySQL, PostgreSQL, MongoDB">
+</p>
 
----
+<p align="center"><strong>ERP</strong></p>
 
-## 💼 MISSION LOGS
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP_Business_One-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Business One">
+</p>
 
-<div align="center">
+<p align="center"><strong>Platform and delivery</strong></p>
 
-### 🎯 CURRENT DEPLOYMENT
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,linux,docker,nginx,wordpress,androidstudio,flutter&perline=7" alt="Git, Linux, Docker, Nginx, WordPress, Android Studio, Flutter">
+</p>
 
-</div>
+## Domains I have shipped in
 
-#### 🏢 Kreatech | Software Engineer (Backend) & System Architect
-**📅 Dec 2023 - Present (2+ Years) | 📍 Baridhara DOHS, Bangladesh**
+- Manufacturing, garments and industrial ERP
+- Campaign, lead and high-volume messaging platforms
+- Banking automation and loan verification
+- IoT and device data integration
+- Web platforms, e-commerce and CMS
 
-```diff
-+ Architected 50+ enterprise systems from ground zero
-+ Engineered high-performance REST APIs serving 10,000+ concurrent users
-+ Implemented AI/ML solutions using Langchain & RAG
-+ Full-stack DevOps ownership: VPS, cPanel, CI/CD pipelines
-+ Delivered 30+ custom backend solutions with payment integrations
-+ Performance optimization: 60% faster response times
-+ Maintained 99.9% uptime across all production systems
-```
+## How I work
 
-#### 💼 Faiza Button & Cherry Button Ltd. | ERP Specialist & Consultant
-**📅 Nov 2019 - Sep 2023 (4 Years) | 📍 Bangladesh**
+- **Business first.** I implement where the work happens — on the floor, at the sales desk, in the ledger — not only on paper.
+- **Own the whole path.** Schema, API, interface, deployment and support. One owner, fewer gaps.
+- **Production is the test.** Software is finished when it runs every day without anyone babysitting it.
 
-```diff
-+ 5 years hands-on SAP Business One mastery
-+ Managed Finance, Inventory & Production modules
-+ Transformed ERP operations with data-driven insights
-+ 99.9% data integrity across all departments
-+ Bridged business requirements with technical solutions
-+ Optimized manufacturing workflows & processes
-```
+## On GitHub
 
----
+140+ public repositories — Django ERP systems, agentic AI experiments, React and Next.js applications, Flutter apps and automation tooling.
 
-## 🚀 PROJECT SHOWCASE
+[github.com/oleeahmmed](https://github.com/oleeahmmed)
 
-<div align="center">
+## Contact
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+- Email: [rebelsoft111122@gmail.com](mailto:rebelsoft111122@gmail.com)
+- Phone / WhatsApp: [+880 1953 664967](https://wa.me/8801953664967)
+- LinkedIn: [olee-ahmmed-444aa5209](https://bd.linkedin.com/in/olee-ahmmed-444aa5209)
+- GitHub: [@oleeahmmed](https://github.com/oleeahmmed)
 
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Enterprise ERP Ecosystem
-```python
-project = {
-    "name": "Full-Stack ERP System",
-    "tech": ["Django", "PostgreSQL", "Redis"],
-    "features": [
-        "Employee Management (1000+ users)",
-        "Payroll Automation",
-        "Inventory Control",
-        "Production Planning",
-        "SAP Business One Integration"
-    ],
-    "impact": "Reduced manual work by 70%"
-}
-```
-
-### 🤖 AI Knowledge Assistant
-```python
-project = {
-    "name": "RAG-Based AI System",
-    "tech": ["Langchain", "Python", "FastAPI"],
-    "features": [
-        "Intelligent Content Generation",
-        "Advanced Knowledge Retrieval",
-        "Context-Aware Responses",
-        "Multi-Document Analysis"
-    ],
-    "impact": "10x faster information access"
-}
-```
-
-### 📊 Real-Time Analytics Platform
-```python
-project = {
-    "name": "Business Intelligence Dashboard",
-    "tech": ["Django", "NumPy", "Pandas", "Redis"],
-    "features": [
-        "Real-time Data Processing",
-        "Predictive Analytics",
-        "Custom Report Generation",
-        "ML-Based Forecasting"
-    ],
-    "impact": "Data-driven decision making"
-}
-```
-
-</td>
-<td width="50%">
-
-### 🚀 High-Performance API Gateway
-```python
-project = {
-    "name": "Microservices API Gateway",
-    "tech": ["FastAPI", "Redis", "Docker"],
-    "features": [
-        "JWT Authentication",
-        "Rate Limiting",
-        "Load Balancing",
-        "10,000+ concurrent users"
-    ],
-    "impact": "60% response time reduction"
-}
-```
-
-### 💰 Multi-Currency Payment System
-```python
-project = {
-    "name": "Payment Gateway Integration",
-    "tech": ["Django", "Stripe", "PayPal"],
-    "features": [
-        "Multiple Payment Methods",
-        "Subscription Management",
-        "Fraud Detection",
-        "Automated Invoicing"
-    ],
-    "impact": "Seamless transactions"
-}
-```
-
-### 🎓 College Management System
-```python
-project = {
-    "name": "Complete Academic Platform",
-    "tech": ["Django", "PostgreSQL", "Redis"],
-    "features": [
-        "Student Portal",
-        "Attendance Tracking",
-        "Grade Management",
-        "Online Examination"
-    ],
-    "impact": "Digitized education system"
-}
-```
-
-</td>
-</tr>
-</table>
+Open to conversations about ERP rollouts, backend architecture and AI automation.
 
 ---
 
-## 📡 CONNECT & COLLABORATE
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
-[![Email](https://img.shields.io/badge/📧_Email-rebelsoft111122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:rebelsoft111122@gmail.com)
-[![Phone](https://img.shields.io/badge/📱_Phone-+880_1953_664967-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](tel:+8801953664967)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/oleeahmmed)
-[![GitHub](https://img.shields.io/badge/⚡_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/oleeahmmed)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://oleeahmmed.dev)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%">
-
-</div>
-
----
-
-<div align="center">
-
-### 💀 CODE PHILOSOPHY
-
-```python
-while (alive):
-    eat()
-    sleep()
-    code()
-    repeat()
-    
-# "First, solve the problem. Then, write the code." - John Johnson
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=oleeahmmed&color=00F7F7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/oleeahmmed?style=for-the-badge&color=00F7F7&labelColor=000000&logo=github)
-![Stars](https://img.shields.io/github/stars/oleeahmmed?style=for-the-badge&color=00F7F7&labelColor=000000&logo=github)
-
-**⭐ Star my repos if you find them useful! | 🔱 Fork and contribute!**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-**© 2024 Olee Ahmmed | Building the Future, One Commit at a Time**
-
-</div>
+I learn a system by running it. Ten years in, that is still the method.
