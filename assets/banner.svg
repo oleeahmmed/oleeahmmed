@@ -28,7 +28,9 @@
     <text x="72" y="76" font-size="15" letter-spacing="6" fill="#64748B">SOFTWARE ENGINEER</text>
     <text x="72" y="150" font-size="58" font-weight="700" letter-spacing="1" fill="#F8FAFC">Md. Olee Ahmmed</text>
     <text x="72" y="190" font-size="22" fill="#7DD3FC">Backend · AI Automation · ERP Systems</text>
-    <text x="72" y="244" font-size="16" fill="#94A3B8">Createch.ca · ibitLtd · 10+ years in production software</text>
+    <text x="72" y="226" font-size="15" fill="#94A3B8">Software Engineer — ibitLtd · igenHR · SailPilot · Kreatech.ca</text>
+    <text x="72" y="252" font-size="13" fill="#64748B">SAP Business One — LSI Industries Ltd · Faiza Button &amp; Zipper · Cherry Button Ltd</text>
+    <text x="72" y="276" font-size="12" fill="#7C8BA1">Freelance — Fiverr · DevOps · server operations and deployment</text>
   </g>
 
   <g stroke="url(#accent)" stroke-width="1.5" fill="none" opacity="0.7">
